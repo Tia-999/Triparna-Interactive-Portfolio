@@ -1,5 +1,5 @@
 import Hero from './sections/Hero.jsx';
-import ShowCaseSection from './sections/Showcasesection.jsx';
+import ShowCaseSection from './sections/ShowcaseSection.jsx';
 import NavBar from './components/NavBar.jsx';
 import LogoSection from './components/LogoSection.jsx';
 import FeatureCards from './sections/FeatureCards.jsx';
