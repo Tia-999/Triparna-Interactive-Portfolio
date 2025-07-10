@@ -51,7 +51,7 @@ const Hero = () => {
               <h1>that Deliver Results</h1>
             </div>
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-                Hey, I am Triparna , a Computer Science student with a passion for AI
+                Pursuing a Master’s in Computer Science at the University of Manchester, I’m focused on advancing AI technologies that combine ethical design with practical impact. Driven by research and innovation, I explore intelligent systems to solve complex, real-world problems.
             </p>
              <Button className="md:w-80 md:h-16 w-60 h-12"
              id ="Button" text="See my Work"/>
