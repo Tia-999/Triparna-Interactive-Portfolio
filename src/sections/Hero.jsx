@@ -50,9 +50,12 @@ const Hero = () => {
               <h1>into Real Projects</h1>
               <h1>that Deliver Results</h1>
             </div>
-            <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-                Pursuing a Master’s in Computer Science at the University of Manchester, I’m focused on advancing AI technologies that combine ethical design with practical impact. Driven by research and innovation, I explore intelligent systems to solve complex, real-world problems.
-            </p>
+           <div className="flex justify-start">
+  <p className="text-white-50 md:text-xl relative z-10 pointer-events-none max-w-lg">
+    Pursuing a Master’s in Computer Science at the University of Manchester, I’m focused on advancing AI technologies that combine ethical design with practical impact. Driven by research and innovation, I explore intelligent systems to solve complex, real-world problems.
+  </p>
+</div>
+
              <Button className="md:w-80 md:h-16 w-60 h-12"
              id ="Button" text="See my Work"/>
           </div>
