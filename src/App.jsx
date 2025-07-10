@@ -8,7 +8,7 @@ import TechStack from './sections/TechStack.jsx';
 import Testimonials from './sections/Testimonials.jsx';
 import Contacts from './sections/Contact.jsx';
 import Contact from './sections/Contact.jsx';
-import Footer from './sections/Footer.Jsx';
+import Footer from './sections/Footer.jsx';
 
 const App = () => {
   return (
